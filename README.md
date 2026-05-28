@@ -1,41 +1,199 @@
-# Bienvenidos a EverPia 👩‍💻👨‍💻
+<h1 align="center">Proyecto 2 - ConsultoriaEverPia</h1>
 
-EverPia es una consultora IT nacida de la pasión por la tecnología y la educación. Fundada por ocho profesores con una visión clara: usar la tecnología para ayudar a personas y organizaciones a crecer. Hoy, tú te unes como consultor/a júnior para afrontar retos reales y formar parte de esta historia colaborativa.
+<p align="center">
+  <img src="https://img.shields.io/badge/Ciclo-SMX2-blue" height="25">
+  <img src="https://img.shields.io/badge/Proyecto-Intermodular-red" height="25">
+  <img src="https://img.shields.io/badge/Metodologia-Kanban-green" height="25">
+  <img src="https://img.shields.io/badge/Herramienta-Microsoft%20Planner-purple" height="25">
+  <img src="https://img.shields.io/badge/Duracion-3%20semanas-orange" height="25">
+</p>
 
-## Nuestra Filosofía 🌱
+<hr>
 
-> "Nunca trabajaremos solos. Cada proyecto será una oportunidad para crecer juntos."
+<h2>1. Introducción</h2>
 
-Creemos en el trabajo en equipo, la mejora continua y el compromiso con la calidad. Usamos metodología Kanban con Planner para organizar tareas de forma visual y eficiente.
+<p>
+Este proyecto forma parte del ciclo formativo de Sistemas Microinformáticos y Redes (SMX2),
+donde se trabaja en un entorno profesional simulado basado en una consultora tecnológica.
+</p>
 
-## Áreas de Proyecto 🔧
+<p>
+El objetivo principal es adquirir experiencia en organización, gestión de proyectos,
+resolución de problemas técnicos y documentación profesional.
+</p>
 
-- **Seguridad Informática**: selección de SAI, recuperación de accesos, protección de sistemas.
-- **Administración de Sistemas**: servidores Linux, servicios de red (DHCP), optimización de infraestructuras.
-- **Desarrollo Web**: dominios, hosting, WordPress.
-- **Sostenibilidad Tecnológica**: prácticas eco-friendly y tecnologías verdes.
+<hr>
 
-## Onboarding 🚀
+<h2>2. Contexto del proyecto</h2>
 
-Durante tu incorporación, trabajarás en tareas como:
+<p>
+EverPia es una consultora IT orientada a ofrecer soluciones tecnológicas a empresas.
+En este proyecto, el alumno adopta el rol de consultor junior, resolviendo distintas necesidades de clientes.
+</p>
 
-- Configuración de Kanban y perfil GitHub.
-- Análisis de SAI y medidas de seguridad lógica.
-- Administración de servidores y servicios de red.
-- Consultoría web y sostenibilidad tecnológica.
-- Documentación técnica con Markdown y CMS WordPress.
+<hr>
 
-## Evaluación 📊
+<h2>3. Objetivos</h2>
 
-Tu progreso se medirá en dos dimensiones:
+<ul>
+<li>Aplicar metodología Kanban</li>
+<li>Gestionar proyectos técnicos</li>
+<li>Usar GitHub como herramienta profesional</li>
+<li>Documentar procesos en Markdown</li>
+<li>Trabajar en equipo</li>
+</ul>
 
-- **Trabajo Individual**: competencias técnicas y personales.
-- **Trabajo en Equipo**: colaboración y organización con Kanban.
+<hr>
 
-> Nota mínima individual: 4 para hacer media con el trabajo grupal.
+<h2>4. Áreas de trabajo</h2>
 
-## Tu Futuro en EverPia 🌟
+<table border="1" cellpadding="6">
+<tr>
+<th>Área</th>
+<th>Contenido</th>
+</tr>
 
-Este proyecto es tu puerta de entrada al mundo EverPia. Aquí desarrollarás habilidades técnicas, aprenderás a comunicarte con claridad y entregarás soluciones con impacto. Prepárate para crecer, colaborar y afrontar cualquier reto tecnológico con excelencia.
+<tr>
+<td>Seguridad</td>
+<td>SAI, acceso a sistemas y protección de datos</td>
+</tr>
 
-¡Bienvenido/a al equipo!
+<tr>
+<td>Sistemas</td>
+<td>Administración de servidores Linux</td>
+</tr>
+
+<tr>
+<td>Redes</td>
+<td>Configuración de DHCP y servicios</td>
+</tr>
+
+<tr>
+<td>Web</td>
+<td>Hosting, dominios y WordPress</td>
+</tr>
+
+<tr>
+<td>Sostenibilidad</td>
+<td>Uso responsable de tecnología</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h2>5. Metodología</h2>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Microsoft_Planner_%282024%E2%80%93present%29.svg" width="120">
+</p>
+
+<ul>
+<li>Uso de Kanban mediante Microsoft Planner</li>
+<li>Organización de tareas mediante backlog</li>
+<li>Seguimiento continuo del progreso</li>
+<li>Trabajo colaborativo e individual</li>
+</ul>
+
+<hr>
+
+<h2>6. Tareas realizadas</h2>
+
+<ul>
+<li>Creación de repositorio en GitHub</li>
+<li>Selección de SAI para empresa</li>
+<li>Recuperación de acceso a sistemas Linux</li>
+<li>Configuración de servidor Linux</li>
+<li>Implementación del servicio DHCP</li>
+<li>Análisis de hosting y dominios</li>
+<li>Instalación de WordPress</li>
+<li>Documentación en Markdown</li>
+</ul>
+
+<hr>
+
+<h2>7. Productos finales</h2>
+
+<table border="1" cellpadding="6">
+<tr>
+<th>Código</th>
+<th>Producto</th>
+<th>Descripción</th>
+</tr>
+
+<tr>
+<td>P01</td>
+<td>Kanban + GitHub</td>
+<td>Organización del proyecto y repositorio</td>
+</tr>
+
+<tr>
+<td>P02</td>
+<td>Documentación técnica</td>
+<td>Guías en Markdown estructuradas</td>
+</tr>
+
+<tr>
+<td>P03</td>
+<td>Presentación hosting</td>
+<td>Exposición técnica ante cliente</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h2>8. Evaluación</h2>
+
+<table border="1" cellpadding="6">
+<tr>
+<th>Tipo</th>
+<th>Peso</th>
+</tr>
+
+<tr>
+<td>Trabajo individual</td>
+<td>60%</td>
+</tr>
+
+<tr>
+<td>Trabajo en equipo</td>
+<td>40%</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h2>9. Competencias desarrolladas</h2>
+
+<ul>
+<li>Planificación y gestión de proyectos</li>
+<li>Documentación técnica profesional</li>
+<li>Resolución de problemas IT</li>
+<li>Trabajo en equipo</li>
+<li>Uso de herramientas reales</li>
+</ul>
+
+<hr>
+
+<h2>10. Autor</h2>
+
+<p>
+Santiago Hernández<br>
+CFGM Sistemas Microinformáticos y Redes (SMX2)<br>
+Escola Pia Mataró
+</p>
+
+<hr>
+
+<h2>11. Conclusión</h2>
+
+<p>
+Este proyecto introduce el funcionamiento real de una consultora IT,
+permitiendo aplicar conocimientos técnicos en un entorno profesional.
+</p>
+
+<p>
+Constituye una base sólida para el desarrollo de futuros proyectos.
+</p>
